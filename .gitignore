@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# added exclusion for config.py
+config.py
+
 # C extensions
 *.so
 
