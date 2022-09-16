@@ -14,19 +14,19 @@
 
 ### Reproduce Database
 1. Create a Repo
-    A. Create a new folder on your desktop and name it ETL_Project (or whatever you wish)
-    B. Open a gitbash(Windows) or Terminal(Mac) on the ETL_Project
-    D. Use `git clone git@github.com:seneubauer/extract-transform-load.git` 
-        i. Go to this link [Git Hub](https://github.com/seneubauer/extract-transform-load)  and click code in the green dropdown box and copy the ssh key
-    E. Activate your environment with `source activate PythonData38` or `conda activate PythonData38`
-    F. Open a jupyter notebook with `jupyter notebook`
+    1. Create a new folder on your desktop and name it ETL_Project (or whatever you wish)
+    2. Open a gitbash(Windows) or Terminal(Mac) on the ETL_Project
+    3. Use `git clone git@github.com:seneubauer/extract-transform-load.git` 
+        1. Go to this link [Git Hub](https://github.com/seneubauer/extract-transform-load)  and click code in the green dropdown box and copy the ssh key
+    4. Activate your environment with `source activate PythonData38` or `conda activate PythonData38`
+    5. Open a jupyter notebook with `jupyter notebook`
 
 2. Create tables and database
-    A. Open PGAdmin4
-    B. Create a new database named dnd_db
-    C. Open query tool
-    D. Run schema.sql script
+    1. Open PGAdmin4
+    2. Create a new database named dnd_db
+    3. Open query tool
+    4. Run schema.sql script
 3. Jupyter Notebook
-    A. Execute jupyter notebook python script
+    1. Execute jupyter notebook python script
     
     
